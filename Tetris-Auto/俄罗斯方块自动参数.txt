@@ -1,0 +1,6 @@
+Landing Height:      -4.500158825082766
+Rows eliminated:     3.4181268101392694
+Row Transitions:     -3.2178882868487753
+Column Transitions:  -9.348695305445199
+Number of Holes:     -7.899265427351652
+Well Sums:           -3.3855972247263626
